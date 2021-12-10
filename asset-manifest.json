@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kronos_map_view_pub/static/css/main.a617e044.chunk.css",
+    "main.js": "/kronos_map_view_pub/static/js/main.fd554332.chunk.js",
+    "main.js.map": "/kronos_map_view_pub/static/js/main.fd554332.chunk.js.map",
+    "runtime-main.js": "/kronos_map_view_pub/static/js/runtime-main.2127e9d1.js",
+    "runtime-main.js.map": "/kronos_map_view_pub/static/js/runtime-main.2127e9d1.js.map",
+    "static/js/2.481a481e.chunk.js": "/kronos_map_view_pub/static/js/2.481a481e.chunk.js",
+    "static/js/2.481a481e.chunk.js.map": "/kronos_map_view_pub/static/js/2.481a481e.chunk.js.map",
+    "index.html": "/kronos_map_view_pub/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/kronos_map_view_pub/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.481a481e.chunk.js.LICENSE.txt": "/kronos_map_view_pub/static/js/2.481a481e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2127e9d1.js",
+    "static/js/2.481a481e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fd554332.chunk.js"
+  ]
+}
