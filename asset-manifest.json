@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/kronos_map_view_pub/static/css/main.774e91dc.chunk.css",
-    "main.js": "/kronos_map_view_pub/static/js/main.fae03227.chunk.js",
-    "main.js.map": "/kronos_map_view_pub/static/js/main.fae03227.chunk.js.map",
-    "runtime-main.js": "/kronos_map_view_pub/static/js/runtime-main.2127e9d1.js",
-    "runtime-main.js.map": "/kronos_map_view_pub/static/js/runtime-main.2127e9d1.js.map",
-    "static/js/2.9098648e.chunk.js": "/kronos_map_view_pub/static/js/2.9098648e.chunk.js",
-    "static/js/2.9098648e.chunk.js.map": "/kronos_map_view_pub/static/js/2.9098648e.chunk.js.map",
+    "main.css": "/kronos_map_view_pub/static/css/main.b36367c9.css",
+    "main.js": "/kronos_map_view_pub/static/js/main.ad4b6d0f.js",
     "index.html": "/kronos_map_view_pub/index.html",
-    "static/css/main.774e91dc.chunk.css.map": "/kronos_map_view_pub/static/css/main.774e91dc.chunk.css.map",
-    "static/js/2.9098648e.chunk.js.LICENSE.txt": "/kronos_map_view_pub/static/js/2.9098648e.chunk.js.LICENSE.txt"
+    "main.b36367c9.css.map": "/kronos_map_view_pub/static/css/main.b36367c9.css.map",
+    "main.ad4b6d0f.js.map": "/kronos_map_view_pub/static/js/main.ad4b6d0f.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2127e9d1.js",
-    "static/js/2.9098648e.chunk.js",
-    "static/css/main.774e91dc.chunk.css",
-    "static/js/main.fae03227.chunk.js"
+    "static/css/main.b36367c9.css",
+    "static/js/main.ad4b6d0f.js"
   ]
 }
